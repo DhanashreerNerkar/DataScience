@@ -1,0 +1,338 @@
+python
+java
+c++
+javascript
+typescript
+r
+scala
+go
+rust
+swift
+kotlin
+c#
+php
+ruby
+bash
+shell scripting
+sql
+noSQL
+machine learning
+deep learning
+artificial intelligence
+reinforcement learning
+unsupervised learning
+semi-supervised learning
+self-supervised learning
+supervised learning
+transfer learning
+federated learning
+autoML
+explainable AI
+computer vision
+natural language processing
+speech recognition
+text-to-speech
+speech-to-text
+chatbots
+language modeling
+prompt engineering
+transformer models
+gpt
+bert
+t5
+xlm
+llama
+mistral
+falcon
+opt
+gpt-neox
+gemini
+stability AI
+vector embeddings
+knowledge graphs
+word2vec
+fasttext
+glove
+nltk
+spacy
+huggingface
+transformers
+tensorflow
+pytorch
+keras
+fastai
+jax
+mxnet
+chainer
+onnx
+tflite
+caffe
+deeplearning4j
+torchvision
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+xgboost
+lightgbm
+catboost
+polars
+dask
+modin
+pycaret
+hyperopt
+optuna
+mlflow
+dvc
+airflow
+databricks
+bigquery
+data pipelines
+data wrangling
+data visualization
+data augmentation
+feature engineering
+dimensionality reduction
+pca
+t-sne
+umap
+hypothesis testing
+a/b testing
+bayesian inference
+markov models
+aws
+azure
+gcp
+ibm cloud
+oracle cloud
+salesforce
+cloud computing
+azure machine learning
+aws sagemaker
+google vertex ai
+docker
+kubernetes
+terraform
+ansible
+jenkins
+github actions
+circleci
+gitlab ci/cd
+bamboo
+travis ci
+argo
+helm
+serverless
+lambda
+api gateway
+cloud functions
+cloud run
+azure functions
+devops
+site reliability engineering
+observability
+grafana
+prometheus
+mysql
+postgresql
+mongodb
+cassandra
+firebase
+dynamodb
+redshift
+snowflake
+bigtable
+hive
+hbase
+spark
+hadoop
+kafka
+flink
+beam
+storm
+data lakes
+etl
+data warehousing
+graph databases
+neo4j
+orientdb
+elasticsearch
+solr
+redis
+memcached
+rest api
+graphql
+grpc
+microservices
+event-driven architecture
+serverless architecture
+monolithic architecture
+design patterns
+solid principles
+clean code
+test-driven development
+unit testing
+integration testing
+end-to-end testing
+load testing
+security testing
+selenium
+pytest
+unittest
+mocking
+api testing
+postman
+html
+css
+scss
+sass
+less
+bootstrap
+tailwind css
+react
+next.js
+vue
+angular
+svelte
+jquery
+d3.js
+three.js
+canvas
+webgl
+electron
+flutter
+dart
+node.js
+express.js
+nestjs
+fastapi
+flask
+django
+spring boot
+dotnet core
+rails
+laravel
+phoenix
+elixir
+go fiber
+actix
+haskell
+nim
+graphql servers
+android
+ios
+react native
+swiftui
+jetpack compose
+kotlin multiplatform
+cordova
+xamarin
+unity
+unreal engine
+cybersecurity
+penetration testing
+ctf
+burp suite
+metasploit
+nmap
+kali linux
+wireshark
+encryption
+cryptography
+blockchain security
+smart contract security
+iso 27001
+gdpr compliance
+blockchain
+ethereum
+solidity
+smart contracts
+nfts
+web3.js
+ethers.js
+rust for blockchain
+substrate
+polkadot
+cosmos
+hyperledger
+binance smart chain
+robotics
+ros
+arduino
+raspberry pi
+nvidia jetson
+lidar
+point cloud
+autonomous vehicles
+mujoco
+openai gym
+quantitative finance
+algorithmic trading
+high-frequency trading
+portfolio optimization
+monte carlo simulations
+black-scholes model
+risk management
+credit scoring
+fraud detection
+problem-solving
+critical thinking
+team collaboration
+agile methodologies
+scrum
+kanban
+design thinking
+technical writing
+mentoring
+public speaking
+quantum computing
+qiskit
+tensorflow quantum
+quantum ai
+neuromorphic computing
+edge ai
+tinyml
+5g
+metaverse
+spatial computing
+generative ai
+diffusion models
+stable diffusion
+midjourney
+dall-e
+computer-generated imagery
+procedural generation
+healthcare ai
+medical imaging
+genomics
+proteomics
+cheminformatics
+drug discovery
+energy analytics
+supply chain optimization
+satellite image processing
+earth observation
+climate modeling
+weather forecasting
+smart cities
+digital twins
+agritech
+low-code
+no-code
+bubble.io
+webflow
+zapier
+airtable
+notion automation
+open-source contributions
+hackathons
+ai ethics
+human-centered ai
+trustworthy ai
+data governance
+ai auditing
+regulatory compliance
+fairness in ai
