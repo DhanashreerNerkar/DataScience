@@ -1,2 +1,0 @@
-Cert_ID,Candidate_ID,License_or_Certification_Name,License_or_Certification_Issuing_Organisation,License_or_Certification_Issue_Month,License_or_Certification_Issue_Year,License_or_Certification_Expiry_Month,License_or_Certification_Expiry_Year,License_or_Certification_Credential_ID,License_or_Certification_URL,License_or_Certification_Skills
-301,1,Data Science Professional,IBM,Mar,2022,,,ABC123,http://cert.example.com,"Python, ML"
