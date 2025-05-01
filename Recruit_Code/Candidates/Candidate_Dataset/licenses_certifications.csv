@@ -1,0 +1,67 @@
+Cert_ID,Candidate_ID,License_or_Certification_Name,License_or_Certification_Issuing_Organisation,License_or_Certification_Issue_Month,License_or_Certification_Issue_Year,License_or_Certification_Expiry_Month,License_or_Certification_Expiry_Year,License_or_Certification_Credential_ID,License_or_Certification_URL,License_or_Certification_Skills
+1,1,Programming for Everybody Getting started with Python,Coursera,Feburary,2019,,,JD2FU2B9LXGT,https://www.coursera.org/account/accomplishments/certificate/JD2FU2B9LXGT,"Python, ML"
+2,2,Google Business Intelligence Certificate,Coursera,March,2025,,,,https://www.credly.com/badges/23c0249a-80f2-48c9-bab6-0ca57acf618f/linked_in_profile,"BigQuery, Business Analysis, BI, Business Provcess, Dashboard, Reporting, Data Modeling, SQL, Tableau"
+3,2,Google Data Analytics Professional Certificate,Coursera,March,2025,,,,https://www.credly.com/badges/d14efb09-a97d-447a-b740-ed2a57c0d0d0/linked_in_profile,"Data Analysis, Data Visualization, Data Aggregation,  data calculation, Data Cleaning, Data Ethics, SQL, spredsheets, Structured Thinking, R "
+4,2,Intro to machine learning,Kaggle,February,2025,February,2026,,https://www.kaggle.com/learn/certification/meenaperiasamy/intro-to-machine-learning,"Machine Learning, Random Forest, Decision Trees"
+5,2,Google Analytics Certification,Skillshop,December,2024,December,2025,127706945,https://skillshop.credential.net/25105494-e57c-4fc2-b468-a73b7b281c27#acc.GFnsEoRw,
+6,2,Data Analytics Essentials,Cisco,October,2023,,,,https://www.credly.com/badges/6f548613-4cd9-4b55-a118-23c80b76ebd6/linked_in_profile,
+7,2,Python Essentials 1,Cisco,October,2023,,,,https://www.credly.com/badges/a2dc4c83-f037-4333-94ed-923ea8f7be5c/linked_in_profile,
+8,2,Python Essentials 2,Cisco,October,2023,,,,https://www.credly.com/badges/7bb3962a-7cab-4775-8367-5afef693851b/linked_in_profile,
+9,2,CCNA: Introduction to Networks,Cisco,June,2023,,,,https://www.credly.com/badges/b1727681-5dc0-4a32-bf77-c7e38c79d638/linked_in_profile,
+10,2,Cybersecurity Essentials,Cisco,September,2022,,,,https://www.credly.com/badges/74761f46-03e0-42ae-8ed1-50aeefbb652d/linked_in_profile,
+11,3,Microsoft Certified : Azure Administrator,Microsoft,,,,,,,
+12,3,Microsoft Certified : Azure Fundamentals,Microsoft,,,,,,,
+13,4,"
+Northeastern University logo
+Community Service-Learning: Intermediate",Northeastern University,November,2024,,,672e41dae0248e551a922e25,https://api.badgr.io/public/assertions/nfd2emL_QwSQSsqkD3BuCw,
+14,4,PADI Dry Suit,PADI,November,2024,,,24120Q4143,https://learning.padi.com/certifications/ecard/5071102/41944143,
+15,4,"Northeastern University logo
+Introductory AI Literacy",Northeastern University,April,2024,,,66145b81fd37f661cb3c99ab,https://api.badgr.io/public/assertions/wQVaWL49QUekULoSTgMaSg,
+16,4,PADI Open Water,Northeastern University,April,2024,,,2302AL0475,https://learning.padi.com/certifications/ecard/2883452/39630475,"Scuba Diving,Open Water Diver"
+17,4,Biology Meets Programming: Bioinformatics for Beginners,Coursera,January ,2023,,,,https://coursera.org/share/607a71388aa1f92314300ebb04f3356c,"Pattern Recognition,Python Programming Language,Bioinformatics"
+18,4,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",Coursera,September,2020,,,,https://coursera.org/share/856ecf2d326e5472d0be4c7ca94b7327,"TensorFlow,Python Programming Language,Machine Learning,Artificial Intelligence AI,Deep Learning"
+19,5,Data Science,Coursera,September,2020,,,356JRNF4SHY2,https://www.youracclaim.com/badges/730e34c8-0ab4-41fe-b8d8-3b67ef8a8f87?source=linked_in_profile,
+20,5,Java Script,LinkedIn,October,2018,,,,https://www.linkedin.com/learning/certificates/e5b01b8a188658381093ba74ba2bf6b562326af1fb7c13815b571966d3b0b61d?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BpA9Tb%2BBRSA6zq00olbTZDA%3D%3D,
+21,5,REST APIs,LinkedIn,October,2018,,,,https://www.linkedin.com/learning/certificates/c16077398beaa58f688645498daf4aef0d32ba1c8bf8ebecb4300ad3b87ab485?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BpA9Tb%2BBRSA6zq00olbTZDA%3D%3D,
+22,6,Amazon Web Services Certified Cloud Practitioner CLF-C01,Amazon Web Services (AWS),June,2022,June,2025,JCFS2C5LFFF1QPG6,https://aws.amazon.com/verification,
+23,7,Applications of AI for Anomaly Detection,NVIDIA,September ,2023,,,3a057f87cb644ec890ffad6e4115fc71,https://courses.nvidia.com/certificates/3a057f87cb644ec890ffad6e4115fc71/,"Machine Learning, Deep Learning, Jupyter, XGBoost"
+24,8,AI Agents Fundamentals,Hugging Face,February,2025,,,abhi-kothari,https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/abhi-kothari/2025-02-15.png,
+25,8,Applied Data Science Capestone,IBM,May,2024,,,5HRTSSSD3PZS,https://www.coursera.org/account/accomplishments/records/5HRTSSSD3PZS,"GitHub, Machine Learning"
+26,8,IBM Data Science Specialization,IBM,May ,2024,,,HEJSKTDH97YH,https://www.coursera.org/account/accomplishments/specialization/HEJSKTDH97YH,"Data Science, SQL, Deep Learning, Machine Learning"
+27,8,Microsoft PL-300 Exam Preparation and Practice,Microsoft,April,2024,,,3RPVACZTH5VF,https://www.coursera.org/account/accomplishments/records/3RPVACZTH5VF,"Data Modeling,Data Preparation,Data Visualization,Microsoft Power BI,Data Management"
+28,8,Microsoft Power BI Data Analyst Specialization,Microsoft,May,2025,,,"
+33PF4856XRKG",https://www.coursera.org/account/accomplishments/specialization/33PF4856XRKG,"Business Strategy,Microsoft Power Query ,Data Processing,Data Analysis, SQL,Microsoft Power BI"
+29,8,Creative Designing in Power BI ,Microsoft,January ,2024,,,KNJ48N4BASTC,https://www.coursera.org/account/accomplishments/records/KNJ48N4BASTC,"Dashboard Building, Data Analysis,Data Visualization,Microsoft Power BI"
+30,8,Data Analysis and Visualization with Power BI,Microsoft,January,2024,,,FM6MEWJNLBLE,https://www.coursera.org/account/accomplishments/records/FM6MEWJNLBLE,"Dashboard Building,Exploratory Data Analysis ,Data Analysis,Data Visualization,Microsoft Power BI"
+31,8,Preparing Data for Analysis with Microsoft Excel,Microsoft,October,2023,,,GN2X46TRQ6JB,https://www.coursera.org/account/accomplishments/certificate/GN2X46TRQ6JB,"Preparing data, Data Analysis, Microsoft Excel"
+32,8,Machine Learning With Python,IBM,Jan,2023,,,JLTTU27JDEPU,https://www.coursera.org/account/accomplishments/certificate/JLTTU27JDEPU,
+33,8,Data Visualization with Python,IBM,Dec,2022,,, 88NXXZRZ3JWF,https://www.coursera.org/account/accomplishments/certificate/88NXXZRZ3JWF," Matplotlib ,Python Programming Language"
+34,8,What is Data Science?,IBM,Nov,2022,,,ZP3TCCBM4W9X,https://www.coursera.org/account/accomplishments/certificate/ZP3TCCBM4W9X,
+35,8,Databases And SQL For Data Science With Python,IBM,October,2022,,,5UVHW59JUUWS,https://www.coursera.org/account/accomplishments/certificate/5UVHW59JUUWS,"Data Science,Cloud databases,SQL, Python Programming Language,Data Analytics"
+36,8,Data Science Methodology,Coursera,September,2022,,,NDEG7Z3QKA7Y,https://www.coursera.org/account/accomplishments/certificate/NDEG7Z3QKA7Y,Data Science
+37,8,"Python for Data Science, AI & Development
+","IBM
+",September,2022,,,S2L3DF4NP7D5,https://www.coursera.org/account/accomplishments/certificate/S2L3DF4NP7D5," Data Science, Pandas Software,NumPy, Deep Learning, Python Programming Language"
+38,8,Tools for Data Science,Coursera,September,2022,,,WQ2LBB3AZCE3,https://www.coursera.org/account/accomplishments/certificate/WQ2LBB3AZCE3,"Data Science, GitHub,Python Programming Language"
+39,8,Data Analysis with Python,IBM,August,2022,,,THNA673GUBY2,https://www.coursera.org/account/accomplishments/certificate/THNA673GUBY2,"Matplotlib,Exploratory Data Analysis,Data Science,Pandas Software , NumPy , Data Analysis ,Data Visualization,Python Programming Language,Data Analytics,Analytical Skills"
+40,8,Introduction to Microsoft Excel,Coursera,August,2022,,,,https://www.coursera.org/account/accomplishments/certificate/TFWTNVBWP6WA,Microsoft Excel
+41,8,"SQL for Data Science
+","University of California, Davis",August,2022,,,JV7P94JP2SDC,https://www.coursera.org/account/accomplishments/certificate/JV7P94JP2SDC,"Data Science,SQLite,SQL,Data Analytics"
+42,8,Data Analysis Using Python,University of Pennsylvania,July,2022,,,S8YSPJDBSF59,https://www.coursera.org/account/accomplishments/certificate/S8YSPJDBSF59,"Matplotlib,Data Science,Pandas Software, NumPy ,Data Analysis, Python Programming Language,Data Analytics,Analytical Skills"
+43,9,Computation and visualisation ,,,,,,,,
+44,9,Data Management for analytics,,,,,,,,
+45,9,Foundations for data analytics,,,,,,,,
+46,9,Data Mining,,,,,,,,
+47,9,Machine Learning,,,,,,,,
+48,9,Machine Learning Operations,,,,,,,,
+49,9,Neural Networks and Deep Learning,,,,,,,,
+50,9,Statistical Learning for engineers,,,,,,,,
+51,10,AWS Certificate,AWS,,,,,,https://www.credly.com/go/S7TtXb2H,"AWS IAM, AWS Command Line Interface (CLI), AWS Lambda, AWS Elastic Beanstalk, AWS Core, Amazon Web Services (AWS),Cloud Computing"
+52,10,Cyber Security | Infosys Springboard,Infosys Springboard,,,,,,https://www.linkedin.com/in/ashwin-satish-759b28236/details/certifications/1706888199279/single-media-viewer?type=DOCUMENT&profileId=ACoAADrmQDUBElIOwPAZebi9PvrP1Z2VNJFHVsM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BZX%2FgfSy8SquYkihGXJgQvg%3D%3D,Cybersecurity
+53,10,Generative AI with Large Language Models,Coursera,,,,,"
+B7GG7QTMZ2K8",https://www.coursera.org/account/accomplishments/verify/B7GG7QTMZ2K8," Python (Programming Language), Machine Learning,Large Language Models (LLM),Generative AI, Artificial Intelligence (AI)"
+54,10,HTML5,Infosys Springboard,,,,,,https://www.linkedin.com/in/ashwin-satish-759b28236/details/certifications/1706888365411/single-media-viewer?type=IMAGE&profileId=ACoAADrmQDUBElIOwPAZebi9PvrP1Z2VNJFHVsM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BZX%2FgfSy8SquYkihGXJgQvg%3D%3D,HTML5
+55,10,Machine Learning with Python,Coursera,,,,,,https://coursera.org/verify/JSTZ6L3Z7682,"Machine Learning, Linear Regression, Logistic Regression, k-means clustering,Cluster Analysis,SciPy ,Scikit-Learn , Data Science, Recommender Systems"
+56,10,Programming Fundamentals,Coursera,,,,,,https://www.linkedin.com/in/ashwin-satish-759b28236/details/certifications/1706888531598/single-media-viewer?type=DOCUMENT&profileId=ACoAADrmQDUBElIOwPAZebi9PvrP1Z2VNJFHVsM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BZX%2FgfSy8SquYkihGXJgQvg%3D%3D,"Algorithms, Programming Language Concept, C (Programming Language), Programming,Problem Solving, Algorithm Design"
+57,10,Software Engineering & Agile Software Development,Infosys Springboard,,,,,,https://www.linkedin.com/in/ashwin-satish-759b28236/details/certifications/1707111013054/single-media-viewer?type=IMAGE&profileId=ACoAADrmQDUBElIOwPAZebi9PvrP1Z2VNJFHVsM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BZX%2FgfSy8SquYkihGXJgQvg%3D%3D,"Agile Project Management , Software Development Life Cycle (SDLC),Software Engineering Practices, Agile Methodologies , Software Development, Agile Testing"
+58,10,Understanding Django,Infosys Springboard,,,,,,https://www.linkedin.com/in/ashwin-satish-759b28236/details/certifications/1706888289588/single-media-viewer?type=DOCUMENT&profileId=ACoAADrmQDUBElIOwPAZebi9PvrP1Z2VNJFHVsM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BZX%2FgfSy8SquYkihGXJgQvg%3D%3D,"Programming , Django , Python (Programming Language)"
